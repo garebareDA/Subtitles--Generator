@@ -1,0 +1,14 @@
+.messages{
+  font-size: 500%;
+  color: white;
+  margin-top: 35%;
+}
+
+body{
+  background-color: black;
+  text-align: center;
+}
+
+.child{
+  color: aliceblue;
+}
